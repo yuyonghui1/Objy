@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1524024055451_1" label="bos" name="bos"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1524044613536_2" label="all_parent" name="all_parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/My_sms" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/all_parent" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1524044666250_3" label="My_bos_management_parent" name="My_bos_management_parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/My_bos_management_util" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/My_bos_management_web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/My_bos_management_domain" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/My_bos_management_parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/My_bos_management_service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/My_bos_management_dao" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1524023790768_0" label="Window Working Set" name="Aggregate for window 1524023790768"/>
+</workingSetManager>
